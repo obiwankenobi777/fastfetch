@@ -1,7 +1,7 @@
 {
   "logo": {
-    "type": "file",
-    "color": { "1": "green" },
+     "type": "file",
+    "color": { "1": "cyan" },
     "padding": {
       "top": 2,
       "right": 6,
@@ -31,11 +31,11 @@
       "detectionMethod": "pci",
       "keyColor": "green"
     },
-    {
-      "type": "display",
-      "key": "│ ├󱄄",
-      "keyColor": "green"
-    },
+    // {
+    //   "type": "display",
+    //   "key": "│ ├󱄄",
+    //   "keyColor": "green"
+    // },
     {
       "type": "disk",
       "key": "│ ├󰋊",
@@ -81,11 +81,11 @@
       "key": "│ ├󰏖",
       "keyColor": "blue"
     },
-    {
-      "type": "terminalfont",
-      "key": "└ └",
-      "keyColor": "blue"
-    },
+    // {
+    //   "type": "terminalfont",
+    //   "key": "└ └",
+    //   "keyColor": "blue"
+    // },
     {
       "type": "custom",
       "format": "\u001b[90m└────────────────────────────────────────────────────┘"
