@@ -40,11 +40,11 @@
       "key": "│ ├󰏖",
       "keyColor": "blue"
     },
-    // {
-    //   "type": "terminalfont",
-    //   "key": "└ └",
-    //   "keyColor": "blue"
-    // },
+    {
+      "type": "terminalfont",
+      "key": "└ └",
+      "keyColor": "blue"
+    },
     {
       "type": "custom",
       "format": "\u001b[90m└────────────────────────────────────────────────────┘"
